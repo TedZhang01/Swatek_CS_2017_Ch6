@@ -2,6 +2,7 @@ package PP_6_1;
 import java.util.Scanner;
 
 public class PP_6_1{
+    //hi
     
     public static void main (String args[]){
         int[] n = new int[51];
